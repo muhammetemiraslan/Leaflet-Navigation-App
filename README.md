@@ -14,5 +14,5 @@ Bu proje, Leaflet kütüphanesini kullanarak bir harita üzerinde başlangıç v
 1. Bu projeyi bilgisayarınıza klonlayın veya indirin.
 
 ```bash
-git clone https://github.com/kullaniciadi/yol-tarifi-uygulamasi.git
+git clone https://github.com/muhammetemiraslan/yol-tarifi-uygulamasi.git
 ```
